@@ -1,0 +1,1 @@
+"""A simple script that prints the classic 'Hello World' message to the console."""\nif __name__ == \"__main__\":\n    print(\"Hello World\")
